@@ -1,16 +1,36 @@
-# movie_app
+# Movie Go App
+ 
+## Features
+-**Log in or sign up to access books**
 
-A new Flutter project.
+-**Browse different movies**
 
-## Getting Started
+-**Search for a specific movie**
 
-This project is a starting point for a Flutter application.
+-**Dark and light mode**
 
-A few resources to get you started if this is your first Flutter project:
+-**English and Arabic languages**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-**Watch movie videos**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-**Edit your profile information**
+
+-**Log out**
+
+with Lottie splash screen 
+
+## This is done using:-
+- **MVVM Architecture** 
+
+- **Cubit State Management** 
+
+- **Dio  with API Integration** 
+- **Shared preferences** 
+- **Responsive Design**
+- **Localization**
+- **Flutter offline**
+- **youtube player**
+
+
+## Demo
+https://drive.google.com/file/d/1c5GpdocPKWzdXBDCjVFpl4RXpwpcdw_I/view
