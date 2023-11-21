@@ -1,0 +1,24 @@
+{
+  "title": "Y O  U R    M O V I E S  ",
+  "homeTab1": "Now Playing",
+  "homeTab2": "UpComing",
+  "homeTab3": "Top Rated",
+  "homeTab4": "Popular",
+  "detailsTab1": "About Movie",
+  "detailsTab2": "Reviews",
+  "detailsTab3": "Cast",
+  "detailsAppBar": "Details",
+  "noReviews": "There are No Reviews Yet",
+  "charName": "Character Name",
+  "search": "Search",
+  "watchNow": "Watch Now",
+  "hintSearch": "Search for  your movie",
+  "main": "Home",
+  "validateSearch": "Please enter your movie ",
+  "noSearchResult": "No items Found",
+  "noRate": "No Rate",
+  "noImage": " no image"
+
+
+
+}

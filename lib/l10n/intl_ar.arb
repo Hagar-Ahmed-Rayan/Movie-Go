@@ -1,0 +1,23 @@
+
+{
+  "title": "افلامك",
+  "homeTab1": "يعرض الأن",
+  "homeTab2": "القادمة",
+  "homeTab3": "الاعلي تقييما",
+  "homeTab4": "المشهورة",
+  "detailsTab1": "عن الفيلم",
+  "detailsTab2": "المراجعات",
+  "detailsTab3": "الممثلين",
+  "detailsAppBar": "التفاصيل",
+  "noReviews": "لا يوجد مراجعات حاليا",
+  "charName": "اسم الشخصية",
+  "search": "البحث",
+  "watchNow": "شاهد الآن",
+  "hintSearch": "ابحث عن فيلمك",
+  "main":"الرئيسية",
+  "validateSearch": "من فضلك ادخل  فيلمك ",
+  "noSearchResult": "لا يوجد نتائج لهذا البحث",
+  "noRate": "لا تقييم ",
+  "noImage": "لا صورة"
+
+}
