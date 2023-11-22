@@ -13,10 +13,6 @@
 
 -**Watch movie videos**
 
--**Edit your profile information**
-
--**Log out**
-
 with Lottie splash screen 
 
 ## This is done using:-
